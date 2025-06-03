@@ -33,7 +33,7 @@ It includes:
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide Icons](https://lucide.dev/)
-- [Google Gemini API](https://ai.google.dev) _(you need your own API key to use it)_
+- [Google Gemini API](https://ai.google.dev) _(you need your own API key to use this feature)_
 
 ---
 
