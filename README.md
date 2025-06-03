@@ -84,11 +84,12 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ## 🧠 Folder Structure
 
 ```
-src/
-├── components/         # Reusable UI components
-├── sections/           # Homepage sections (Hero, Grid, Carousel, etc.)
-├── styles/             # Tailwind and custom CSS (via GlobalStyles)
-└── App.jsx             # Main root component
+.
+├── public/                 # Static files (e.g. icons, images)
+└── src/
+    ├── HomePage.jsx        # Main app file
+    ├── main.jsx            # React root + Tailwind import
+    └── index.css           # Tailwind directives + custom CSS
 ```
 
 ---
