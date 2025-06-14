@@ -23,7 +23,7 @@ It includes:
 - 📦 **Swiss Storage Solutions** (File storage parody)
 - ⚡ **Edam Edge Functions** (Mock serverless logic)
 - 🔄 **Realtime Roquefort** (Frontend-only demo of real-time updates)
-- 🤖 **Gemini-Powered Cheesy Idea Generator**
+- 🤖 **Gemini-Powered Cheesy Idea Generator** _(you need your own API key to use this feature)_
 
 ---
 
@@ -33,7 +33,7 @@ It includes:
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide Icons](https://lucide.dev/)
-- [Google Gemini API](https://ai.google.dev) _(you need your own API key to use this feature)_
+- [Google Gemini API](https://ai.google.dev)
 
 ---
 
