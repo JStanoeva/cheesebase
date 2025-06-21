@@ -87,7 +87,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 .
 ├── public/                 # Static files (e.g. icons, images)
 └── src/
-    ├── App.jsx        # Main app file
+    ├── App.jsx             # Main app file
     ├── main.jsx            # React root + Tailwind import
     └── index.css           # Tailwind directives + custom CSS
 ```
